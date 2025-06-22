@@ -25,11 +25,14 @@ This project analyzes a fictional supply chain dataset of 1,000 orders. It inclu
 - Excel (optional)
 
 ## 📷 Dashboard Preview
-Docs/Screenshot (1).png
-Docs/Screenshot (2).png
-Docs/Screenshot (4).png
+1. Supply Chain Overview 
+![](Docs/Screenshot%20(1).png)
+2. Inventory & Cost Analysis 
+![](Docs/Screenshot%20(2).png)
+3. Delivery & Logistics Tracker
+![](Docs/Screenshot%20(4).png)
 
 ## 📌 How to Use
 1. Clone the repo
-2. Open the dataset in Power BI or Jupyter
+2. Open the dataset in Power BI
 3. Modify/add visualizations or insights
