@@ -18,16 +18,16 @@ This project analyzes a fictional supply chain dataset of 1,000 orders. It inclu
 ## 📁 Folder Structure
 - `data/`: Raw supply chain CSV dataset
 - `dashboards/`: Power BI and Excel dashboards
-- `scripts/`: Data cleaning and analysis (Python or Jupyter)
 - `docs/`: Supporting images and documentation
 
 ## 🧰 Tools Used
 - Power BI
-- Python (Pandas, Matplotlib, Seaborn)
 - Excel (optional)
 
 ## 📷 Dashboard Preview
-_(Add your screenshot in `docs/dashboard_screenshots`)_
+Docs/Screenshot (1).png
+Docs/Screenshot (2).png
+Docs/Screenshot (4).png
 
 ## 📌 How to Use
 1. Clone the repo
